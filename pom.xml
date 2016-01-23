@@ -1,7 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.sqa.CM</groupId>
+<<<<<<< HEAD
   <artifactId>JAVA101</artifactId>
+=======
+  <artifactId>JAVA 101</artifactId>
+>>>>>>> 7d5b455ccb483bfd0bfd9b5a5eaab553903dcbf3
   <version>1.0 SNAPSHOT</version>
   <name>JAVA101</name>
   <description>Project to cover core JAVA Concepts </description>
